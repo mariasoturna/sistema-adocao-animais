@@ -1,0 +1,15 @@
+[theme]
+# Cor principal (Botões, destaques, barras)
+primaryColor = "#0CA69E"
+
+# Cor de fundo do site
+backgroundColor = "#FFFFFF"
+
+# Cor de fundo secundária (Usada em caixas, formulários e barra lateral)
+secondaryBackgroundColor = "#F4F6F9"
+
+# Cor do texto principal
+textColor = "#1E293B"
+
+# Fonte do site (sans serif é a mais moderna e limpa)
+font = "sans serif"
